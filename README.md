@@ -15,7 +15,7 @@
 
 **Github**
 
-![](https://activity-graph.herokuapp.com/graph?username=epover&theme=dracula)
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=epover&theme=monokai">
 
 ![info](https://github-readme-stats.vercel.app/api?username=epover&show_icons=true&count_private=true&hide=prs&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epover&theme=radical&layout=compact)](https://github.com/epover)
@@ -31,8 +31,15 @@
 </p>
 </details>
 
+<details>	
+  <summary><b>🚀 Github Other:</b></summary>
+  <img src = "https://github-profile-trophy.vercel.app/?username=epover&theme=dracula">
+  <img src = "https://github.com/ToulthG/ToulthG/blob/master/github-contribution-grid-snake.svg">
+</details>
 
 <!--
+![](https://activity-graph.herokuapp.com/graph?username=epover&theme=dracula)
+
 **epover/epover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
