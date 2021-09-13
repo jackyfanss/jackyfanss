@@ -17,12 +17,10 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=epover&theme=dracula)
 
-![info](https://github-readme-stats.vercel.app/api?username=epover&show_icons=true&count_private=true&hide=prs&theme=radical) &nbsp；
+![info](https://github-readme-stats.vercel.app/api?username=epover&show_icons=true&count_private=true&hide=prs&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epover&theme=radical&layout=compact)](https://github.com/epover)
 
 
-
-**epover/epover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <!--
