@@ -6,7 +6,7 @@
 
 **About me**
 
-- 🌱 I’m currently learning: [python crawler](https://github.com/epover/python_crawler)
+- 🌱 I’m currently learning: [python_crawler](https://github.com/epover/python_crawler)
 
 - 📫 How to reach me: **endliss@sina.cn**
 
