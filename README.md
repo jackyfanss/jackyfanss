@@ -16,7 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![info](https://github-readme-stats.vercel.app/api?username=epover&show_icons=true&count_private=true&hide=prs&theme=radical)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epover)](https://github.com/epover)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epover&theme=radical)](https://github.com/epover)
 
 <!--
 **epover/epover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
