@@ -2,7 +2,7 @@
 
 <h3 align="center">"满纸荒唐中窥见满脸沧桑/触到神经就要懂得鼓掌"</h3>
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=1000&height=300)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=1050&height=300)
 
 **About me**
 
