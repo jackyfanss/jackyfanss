@@ -18,8 +18,7 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=epover&theme=monokai">
 
 ![info](https://github-readme-stats.vercel.app/api?username=epover&show_icons=true&count_private=true&hide=prs&theme=radical) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epover&theme=radical&layout=compact)](https://github.com/epover)
+[![Top Langs](align="right"&https://github-readme-stats.vercel.app/api/top-langs/?username=epover&theme=radical&layout=compact)](https://github.com/epover)
 
 <!--
 ![](https://activity-graph.herokuapp.com/graph?username=epover&theme=dracula)
