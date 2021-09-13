@@ -13,7 +13,7 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=radical)](https://github.com/epover/Git)
 
 ![info](https://github-readme-stats.vercel.app/api?username=epover&show_icons=true&count_private=true&hide=prs&theme=radical) 
 
