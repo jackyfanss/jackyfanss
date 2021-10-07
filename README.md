@@ -22,10 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epover&theme=monokai&layout=compact)](https://github.com/epover)
 
-
-<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=32329501&sid=1776238762&mode=js"></script>
-
-
 <!--
 ![](https://activity-graph.herokuapp.com/graph?username=epover&theme=dracula)
 
