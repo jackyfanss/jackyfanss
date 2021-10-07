@@ -4,10 +4,6 @@
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=1050&height=300)
 
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="http://oht4nlntk.bkt.clouddn.com/Music_iP%E8%B5%B5%E9%9C%B2%20-%20%E7%A6%BB%E6%AD%8C%20%28Live%29.mp3">
-</audio>
-
 **About me**
 <a href="https://github.com/epover"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 🌱 I’m currently learning: [python_crawler](https://github.com/epover/python_crawler)
@@ -25,6 +21,10 @@
 ![info](https://github-readme-stats.vercel.app/api?username=epover&show_icons=true&count_private=true&hide=prs&theme=monokai) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epover&theme=monokai&layout=compact)](https://github.com/epover)
+
+
+<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=32329501&sid=1776238762&mode=js"></script>
+
 
 <!--
 ![](https://activity-graph.herokuapp.com/graph?username=epover&theme=dracula)
