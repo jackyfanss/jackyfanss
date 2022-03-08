@@ -6,7 +6,7 @@
 
 **About me**
 <a href="https://github.com/sqlsafe"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-- 🌱 I’m currently learning: [python_crawler](https://github.com/sqlsafe/algorithm)
+- 🌱 I’m currently learning: [algorithm](https://github.com/sqlsafe/algorithm)
 - 📫 How to reach me: endliss@sina.cn
 - 😄 Pronouns: i so this!
 
