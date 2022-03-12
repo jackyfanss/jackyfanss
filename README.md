@@ -7,7 +7,7 @@
 **About me**
 <a href="https://github.com/sqlsafe"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 🌱 I’m currently learning: [algorithm](https://github.com/sqlsafe/algorithm)
-- 📫 How to reach me: endliss@sina.cn
+- 📫 How to reach me: sqlsafe@qq.com
 - 😄 Pronouns: i so this!
 
 <h4 align="left">Languages and Tools:</h4>
