@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stephen•Liu</h1>
+<h1 align="center">Hi 👋, I'm Stephen Liu</h1>
 
 <h3 align="center">"Seeing the vicissitudes of life in the paper full of absurdity/You must know how to applaud"</h3>
 
