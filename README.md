@@ -22,11 +22,12 @@
 
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sqlsafe&theme=monokai">
 
+
+<!--
+
 ![info](https://github-readme-stats.vercel.app/api?username=sqlsafe&show_icons=true&count_private=true&hide=prs&theme=monokai) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqlsafe&theme=monokai&layout=compact)](https://github.com/sqlsafe)
-
-<!--
 ![](https://activity-graph.herokuapp.com/graph?username=epover&theme=dracula)
 
 **epover/epover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
