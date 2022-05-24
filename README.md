@@ -5,9 +5,9 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=1050&height=300)
 
 **About me**
-<a href="https://github.com/sqlsafe"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-- 🌱 I’m currently learning: [algorithm](https://github.com/sqlsafe/algorithm)
-- 📫 How to reach me: sqlsafe@qq.com
+<a href="https://github.com/canvss"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+- 🌱 I’m currently learning: [algorithm](https://github.com/canvss/algorithm)
+- 📫 How to reach me: canvs@qq.com
 - 😄 Pronouns: i so this!
 
 <h4 align="left">Languages and Tools:</h4>
@@ -20,14 +20,14 @@
 
 **Github**
 
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sqlsafe&theme=monokai">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canvss&theme=monokai">
 
 
 <!--
 
-![info](https://github-readme-stats.vercel.app/api?username=sqlsafe&show_icons=true&count_private=true&hide=prs&theme=monokai) 
+![info](https://github-readme-stats.vercel.app/api?username=canvss&show_icons=true&count_private=true&hide=prs&theme=monokai) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqlsafe&theme=monokai&layout=compact)](https://github.com/sqlsafe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canvss&theme=monokai&layout=compact)](https://github.com/canvss)
 ![](https://activity-graph.herokuapp.com/graph?username=epover&theme=dracula)
 
 **epover/epover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
