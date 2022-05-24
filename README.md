@@ -5,7 +5,6 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=1050&height=300)
 
 **About me**
-<a href="https://github.com/canvss"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 🌱 I’m currently learning: [algorithm](https://github.com/canvss/algorithm)
 - 📫 How to reach me: canvs@qq.com
 - 😄 Pronouns: i so this!
