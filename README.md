@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Stephen Liu</h1>
+<h1 align="center">Hi 👋, I'm Canvs</h1>
 
 <h3 align="center">"Seeing the vicissitudes of life in the paper full of absurdity / You must know how to applaud"</h3>
 
 
 **About me**
-- 🌱 I’m currently learning: [Github-Copilot](https://github.com/canvss/copilot)
+- 🌱 I’m currently learning: [Copilot](https://github.com/canvss/copilot)
 - 📫 How to reach me: canvs@qq.com
 - 😄 Pronouns: i so this!
 
