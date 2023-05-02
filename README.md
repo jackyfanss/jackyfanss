@@ -44,3 +44,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=canvss/Python_Crawler,canvss/canvss&type=Date)](https://star-history.com/#canvss/Python_Crawler&canvss/canvss&Date)
