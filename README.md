@@ -4,7 +4,7 @@
 
 
 **About me**
-- 🌱 I’m currently learning: [Copilot](https://github.com/canvss/copilot)
+- 🌱 I’m currently learning: [Linux](https://github.com/canvss/Linux)
 - 📫 How to reach me: canvs@qq.com
 - 😄 Pronouns: i so this!
 
