@@ -4,7 +4,7 @@
 
 
 **About me**
-- 🌱 I’m currently learning: [JAVA](https://github.com/canvss/JavaSE)
+- 🌱 I’m currently learning: [JavaSE](https://github.com/canvss/JavaSE)
 - 📫 How to reach me: canvs@qq.com
 - 😄 Pronouns: i so this!
 
