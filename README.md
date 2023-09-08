@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Canvs</h1>
 
-<!--<h3 align="center">"Seeing the vicissitudes of life in the paper full of absurdity / You must know how to applaud"</h3>-->
-<h3 align="center">吾生也有涯，而知也无涯!</h3>
+<h3 align="center">"Seeing the vicissitudes of life in the paper full of absurdity / You must know how to applaud"</h3>
+
 
 **About me**
 - 🌱 I’m currently learning: [Javaweb](https://github.com/canvss/Javaweb)
