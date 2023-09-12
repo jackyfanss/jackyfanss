@@ -4,7 +4,7 @@
 
 
 **About me**
-- 🌱 I’m currently learning: [Javaweb](https://github.com/canvss/SSM)
+- 🌱 I’m currently learning: [SSM](https://github.com/canvss/SSM)
 - 📫 How to reach me: canvs@qq.com
 - 😄 Pronouns: i well hope so this!
 <h4 align="left">Languages and Tools:</h4>
