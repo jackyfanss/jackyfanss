@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Canvs</h1>
+<!-- -<h1 align="center">Hi 👋, I'm Jack</h1> --->
 
 <h3 align="center">"Seeing the vicissitudes of life in the paper full of absurdity / You must know how to applaud"</h3>
 
 
 **About me**
-- 🌱 I’m currently learning: [SSM](https://github.com/canvss/SSM)
+- 🌱 I’m currently learning: [SSM](https://github.com/jackyfanss/SSM)
 - 📫 How to reach me: canvs@qq.com
 - 😄 Pronouns: i well hope so this!
 <h4 align="left">Languages and Tools:</h4>
